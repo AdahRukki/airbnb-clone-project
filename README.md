@@ -56,6 +56,99 @@ A user-friendly design is critical in a booking system as it reduces friction in
 ### Why Identifying Design Properties Matters
 Understanding the design properties of a mockup ensures consistency between the visual design and the final product. It helps developers maintain the intended look and feel across components, align with brand guidelines, and improve usability. Clear color schemes and typography rules also enhance accessibility and create a polished, professional user experience.
 
+## Project Roles and Responsibilities
+
+This project follows a collaborative development model where each team member plays a vital role in delivering a complete, high-quality Airbnb clone. Below are the key roles and their responsibilities:
+
+### 🧭 Project Manager
+- Oversees the overall project timeline and workflow.
+- Coordinates between team members and manages deliverables.
+- Ensures milestones and deadlines are met.
+- Facilitates communication and keeps the team aligned.
+
+### 🎨 Designers
+- Create the visual design system and maintain Figma mockups.
+- Ensure the interface is consistent, accessible, and aligned with UX principles.
+- Collaborate with frontend developers to translate design into code.
+
+### 💻 Frontend Developers
+- Build responsive UI components using HTML, CSS, and JavaScript (React).
+- Integrate API endpoints for dynamic content rendering.
+- Maintain component architecture and ensure cross-browser compatibility.
+
+### 🔧 Backend Developers
+- Design and develop RESTful APIs and handle server-side logic.
+- Set up and manage the database schema and queries.
+- Ensure secure and scalable backend infrastructure.
+
+### 🧪 QA/Testers
+- Write and execute test cases for UI and backend functionality.
+- Identify bugs, performance issues, and inconsistencies.
+- Ensure the application meets quality and usability standards.
+
+### 🚀 DevOps Engineers
+- Set up CI/CD pipelines for automated testing and deployment.
+- Manage cloud hosting, version control integrations, and environment configs.
+- Monitor performance and uptime post-deployment.
+
+### 📌 Product Owner
+- Defines product features and user requirements.
+- Prioritizes the product backlog and ensures user needs are met.
+- Acts as the voice of the customer during development.
+
+### 📅 Scrum Master
+- Facilitates agile ceremonies (daily standups, sprint planning, retrospectives).
+- Helps remove blockers and maintain productivity.
+- Ensures agile best practices are followed.
+
+## UI Component Patterns
+
+This section outlines the core UI components planned for the Airbnb Clone project. These reusable components will ensure visual consistency, modularity, and scalability across the application.
+
+### Planned Components
+
+#### 🔝 Navbar
+- **Features:**
+  - Logo display
+  - Search bar for properties
+  - User navigation (login/logout, profile)
+  - Responsive hamburger menu for mobile devices
+- **Purpose:** Provides users with easy navigation and quick access to core actions.
+
+#### 🏘️ Property Card
+- **Features:**
+  - Property image
+  - Title, price, location, and rating
+  - Favorite (heart) button
+  - Responsive grid layout support
+- **Purpose:** Displays property previews in listings for browsing and selection.
+
+#### 📄 Listing Detail Section
+- **Features:**
+  - Property gallery
+  - Detailed description and amenities
+  - Host info and availability
+  - Booking form
+- **Purpose:** Presents full information about a selected property and allows the user to proceed with booking.
+
+#### 🧾 Simple Checkout
+- **Features:**
+  - Booking summary
+  - Secure payment input fields
+  - Confirmation message
+- **Purpose:** Streamlines the final booking process to minimize user drop-off.
+
+#### 📑 Footer
+- **Features:**
+  - Site links (About, Help, Terms)
+  - Social media icons
+  - Company contact information
+- **Purpose:** Provides site-wide information and enhances credibility.
+
+---
+
+
+
 
 
 
