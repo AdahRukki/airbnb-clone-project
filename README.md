@@ -32,6 +32,30 @@ The goal is to practice real-world full-stack development skills, including fron
 ### Importance of User-Friendly Design
 A user-friendly design is critical in a booking system as it reduces friction in the user journey, making it easy and enjoyable to find and book properties. Clear navigation, intuitive interfaces, and responsiveness across devices lead to higher conversion rates, improved customer satisfaction, and increased trust in the platform.
 
+## Design Specifications
+
+### Color Styles
+- **Primary Color:** `#FF5A5F`
+- **Secondary Color:** `#008489`
+- **Background Color:** `#FFFFFF`
+- **Text Color:** `#222222`
+- **Secondary Text Color:** `#717171`
+
+### Typography
+- **Primary Font Family:** Circular
+- **Headings:**
+  - Font Weight: Bold (700)
+  - Font Size: 24px – 32px
+- **Body Text:**
+  - Font Weight: Medium (500)
+  - Font Size: 16px
+- **Secondary Text:**
+  - Font Weight: Book (400)
+  - Font Size: 14px
+
+### Why Identifying Design Properties Matters
+Understanding the design properties of a mockup ensures consistency between the visual design and the final product. It helps developers maintain the intended look and feel across components, align with brand guidelines, and improve usability. Clear color schemes and typography rules also enhance accessibility and create a polished, professional user experience.
+
 
 
 
